@@ -1,0 +1,121 @@
+{
+  "howStart": "VOR DEM START",
+  "guide": "GUIDE",
+  "topSponsors": "TOP 10 SPONSORS",
+  "subtitle": "Der weltweit beste dezentralisierte, gemeinschaftliche Unterstützungsfonds",
+  "subtitleSecond": "",
+  "join": "JOIN",
+  "reset": "RESET",
+  "joinToProject": "TO JOIN THE PROJECT YOU NEED TO USE",
+  "wallet": "THE TRON WALLET",
+  "statistic": "STATISTICS",
+  "contractInfo": "SMART CONTRACT INFO",
+  "contractAddress": "Smart Contract Addresse",
+  "contractDeposits": "Gesamte TRX-Einzahlungen",
+  "contractBalance": "Smart Contract Guthaben",
+  "contractWithdraws": "An Mitglieder Ausgezahlt",
+  "contractPull": "Betrag Im Tagespool",
+  "contractCountDown": "Tagespool Timer",
+  "maxSumRef": "Umsatz Top Sponsor",
+  "mySponsor": "Eingeladen Von",
+  "personalStatistic": "PERSONAL STATISTIC",
+  "personalAddress": "Deine Adresse",
+  "personalTime": "Gutschrift Countdown",
+  "personalLimit": "400% Einkommen Offen",
+  "personalUpMoney": "Gutschrift Tag 1,2%",
+  "personalRefUpMoney": "Einkommen Direkte Partner",
+  "personalBonus": "Matching Bonus",
+  "personalAward": "TOP Sponsor Provision",
+  "personalWithdraw": "Ausgezahltes Einkommen",
+  "personalAccrual": "Auszahlbares Einkommen",
+  "statisticAll": "TRX Eingezahlt",
+  "statisticGet": "TRX Ausgezahlt",
+  "organization": "ORGANIZATION",
+  "myRefLink": "Referral Link",
+  "myCountRef": "Direkte Partner",
+  "allPartners": "Partner Gesamt",
+  "allUsers": "Community Teilnehmer",
+  "officialChannel": "Official Telegram News",
+  "support": "Telegram Group",
+
+  "address": "Address",
+  "income": "Income", 
+  "back": "BACK" ,
+  "emptyValue": "Zero amount",
+  "authError": "To join the project you need to use the Tron wallet",
+  "sponsor": "Sponsor:",
+  "idError": "Check your invitation ID.",
+  "changeId": "You can change it before proceeding with deposit.",
+  "copied": "Kopiert",
+  "copy": "KOPIEREN",
+  "withdraw": "WITHDROW",
+
+  "howToJoinText": {
+    "p1": "Um TRONX beizutreten, müssen Sie eines der folgenden Dapp-Wallets verwenden.",
+    "p2": "Um sich mit dem Smart-Vertrag zu verbinden, laden Sie bitte Ihr bevorzugtes Wallet anhand der untenstehenden Anweisungen herunter, richten Sie es ein und laden Sie ihr Wallet mit TRON (TRX) auf. ",
+    "p3": "Achtung! Es ist wichtig, bei der 1. Einzahlung auf den Smart-Vertrag von TRONX einen Empfehlungslink zu verwenden. Bitte wenden Sie sich an die Person, die Sie auf TRONX aufmerksam gemacht hat. ",
+    "p4": "TRON WALLET - downloaden auf der offiziellen Seite: ",
+    "p5": "TRONWALLET ist eine sichere p2p-Krypto-Geldbörse und Tauschbörse für TRON (TRX) ",
+    "items": [
+      "Herunterladen und Einrichten von TRON WALLET auf ihrem Smartphone", 
+      "Wallet mit TRX aufladen", 
+      "Gehen Sie zum Dapp-Browser im Wallet und geben Sie den Ref-Link ein",
+      "Wählen Sie den einzuzahlenden Betrag und klicken Sie auf Invest"
+    ],
+    "p6": "Was ist Dapp Browser?",
+    "p7": "Ein Webbrowser, mit dem Sie mit jeder dezentralen Anwendung (DApp) interagieren können. Einfache, direkte und sichere Verbindung zwischen Ihrem Blockchain-Konto und einer kompatiblen DApp.",
+    "p8": "TRONLINK Wallet - PC BROWSER EXTENSION:",
+    "p9": "What is TRONLINK?",
+    "p10": "TRONLINK ist als Browser-Erweiterung und als mobile App erhältlich. TronLink stattet Sie mit einem Schlüsseltresor, einem sicheren Login und einer Token-Brieftasche aus - alles, was Sie zur Verwaltung Ihrer digitalen Assets benötigen. TronLink generiert Passwörter und Schlüssel auf Ihrem Gerät, so dass nur Sie Zugang zu Ihren Konten und Daten haben!",
+    "p11": "Wie lade ich die TRONLINK Browser-Erweiterung herunter? ",
+    "p12": "Offizielle Webseite: ",
+    "p13": "Wie man TRONLINK mit TRONX verbindet?",
+    "connectItem1": "1. Web-Browser mit TronLink-Download öffnen",
+    "connectItem2": "2. Geben Sie",
+    "connectItem3": "mit ref link ein und klicken Sie auf enter",
+    "connectItem4": "3. Erlauben Sie dem TRONLINK-Wallet, eine Verbindung herzustellen zu",
+    "p14": "Wenn Sie zum ersten Mal eine Verbindung zu TRONX herstellen - folgen Sie diesen Schritten:",
+    "items2": [
+      "Kopieren Sie den Ref-Link von Ihrem Sponsor", 
+      "Geben Sie den Ref-Link in Ihren PC-Browser mit der Erweiterung TRONLINK ein", 
+      "Wählen Sie den Betrag, den Sie bis zu 100000 TRX einzahlen möchten.", 
+      "Klicken Sie auf Invest und bestätigen Sie die Transaktion in ihrem Wallet. Das ist es! Genießen Sie Ihren Verdienst"
+    ]
+  },
+  "guideText": {
+    "items1": [
+      "Willkommen beim weltweit ersten dezentralisierten Unterstützungsfonds für Communitys, der auf TRON-Blockchain und Smart Contract Technologie basiert.",
+      "Der TRONX Smart-Vertrag ist so konzipiert, dass jeder einen unabhängigen, finanziellen Unterstützungsfonds erhält.",
+      "Jeder Teilnehmer kann TRX zum Gemeinschaftsfonds und zur Unterstützung von TRONX - Gemeinschaftsmitgliedern beitragen. Dadurch aktiviert der Teilnehmer den Vertrag und erhält die Unterstützung von anderen Gemeinschaftsmitgliedern zurück.",
+      "TRONX ist zu 100% dezentralisiert und ein gemeinschaftsbasiertes Projekt; das bedeutet, dass alles, was Sie von TRONX erhalten, auf Ihren eigenen und den Bemühungen der Gemeinschaft basiert, da es sich um ein P2P-Unterstützungsmodell handelt",
+      "Sie andere unterstützen und andere Sie unterstützen.",
+      "TRONX kann als eine dezentralisierte 'dritte Partei' betrachtet werden, die Fairness, Transparenz und Gerechtigkeit für alle gemäß dem Algorithmus-Code gewährleistet.",
+      "Es gibt keine Vermittler oder Vermittler, keine Eigentümer, keine Firma oder menschliche Interaktion, was effektiv die Fairness aller teilnehmenden Partner und Partnerfonds gemäß den Regeln des Smart Contract garantiert.",
+      "Es ist das vernünftigste, sicherste und modernste finanzielle Unterstützungsmodell, das zur Zeit verfügbar ist."
+    ],
+    "p1": "Sie können an TRONX teilnehmen, indem Sie mindestens 100 TRX in den Fonds einzahlen.",
+    "p2": "400% werden auf 4 Arten zurückerstattet (1 passiv und 3 über Marketing). Wenn 400% über eine der 4 Arten angesammelt werden, muss eine neue Einzahlung in gleicher oder höherer Höhe getätigt werden, um weiterhin aus dem Fonds zu erhalten.",
+    "items2": [
+      {"text": "1,2% Tägliche Rendite auf Ihre Einzahlung (maximal400 Tage) 100% Passiv. "},
+      {"text": "10% Provision für direkt geworbene Referrals. "},
+      {"text": "Entsprechende Provision für das tägliche 2% Einkommen der Partner bei jeder Abhebung", 
+        "income": [
+          "1) 30% ","2) 10","3) 10","4) 10"," 5) 10","6) 8","7) 8 "," 9) 8 ","10) 8 ","11) 5","12) 5","13) 5","14) 5 ","15) 5"," 16) 3","17) 3"," 18) 3","19) 3","20) 3"
+        ], 
+        "textMore": "1 neue Ebene wird für jeden direkten Partner aktiviert, maximal 20 Ebenen, siehe oben."
+      },
+      {"text": "Täglich 3% des Top-Referrer-Pools bedeutet, dass von ALLEN in den Pool eingezahlten Einlagen alle 24 Stunden 10% des Pools unter den 4 größten Sponsoren aufgeteilt werden."}
+    ],
+    "items3": [
+      "1,2% des Betrags, der als Unterstützung für den Community-Fonds bereitgestellt wird, werden täglich gemäß dem Systemalgorithmus an alle Benutzer zurückgegeben, bis das maximale EINNAHMEN-Limit von 400% erreicht ist.",
+      "Nehmen wir an, Sie unterstützen einen 1000 TRX-Fonds. Jetzt können Sie 4000 TRX zurückbekommen. Alle 24 Stunden erhalten Sie 12 TRX für maximal 333 Tage oder bis Sie 400% des Einkommens auf andere Weise erhalten. Welches auch immer zuerst kommt.",
+      "10% direktes Überweisungseinkommen",
+      "10% des Einzahlungsbetrags werden dem Sponsor gutgeschrieben, wenn sein direkter Partner die erste oder wiederholte Einzahlung vornimmt. Zum Beispiel beträgt die Einzahlung eines Partners 1000 TRX, dann erhalten Sie 100 TRX direktes Empfehlungseinkommen.",
+      "Die Anzahl der direkten Partner, die Sie haben können, ist unbegrenzt."
+    ],
+    "items4": [
+      "EINKOMMEN AUS GEWINNEN VON PARTNERN",
+      "Das Einkommen basiert auf dem Tagesgewinn von 1,2% Ihrer Partner und wird berechnet, sobald Ihr nachgeschalteter Partner die angesammelten 1,2% des Tagesgewinns abhebt. Die Anzahl der Zeilen, aus denen Sie Einkommen erhalten, hängt von der Anzahl Ihrer direkt persönlich eingeladenen Partner ab. Für jeden Ihrer direkten Partner wird 1 Zeile hinzugefügt. Um das maximale Einkommen aus 20 Zeilen zu erzielen, benötigen Sie 20 direkt persönlich eingeladene Partner."
+    ]
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "howStart": "CÓMO PARTICIPAR",
+  "guide": "GUÍA",
+  "topSponsors": "10 PATROCINADORES PRINCIPALES",
+  "subtitle": "EL PRIMER FONDO DE APOYO COMUNITARIO DESCENTRALIZADO DEL MUNDO",
+  "subtitleSecond": "",
+  "join": "UNIRSE",
+  "reset": "REINICIAR",
+  "joinToProject": "PARA UNIRSE AL PROYECTO QUE NECESITA USAR",
+  "wallet": "CARTERA TRON",
+  "statistic": "ESTADÍSTICAS",
+  "contractInfo": "INFORMACIÓN DEL CONTRATO INTELIGENTE",
+  "contractAddress": "Dirección del contrato Inteligente",
+  "contractDeposits": "Depósitos de todo el tiempo",
+  "contractBalance": "Balance del contrato Inteligente",
+  "contractWithdraws": "Pagado A Los Participantes",
+  "contractPull": "Suma en el grupo diario",
+  "contractCountDown": "Cuenta atrás de pull",
+  "maxSumRef": "La cantidad máxima de la referencia Superior",
+  "mySponsor": "Mi Aplain",
+  "personalStatistic": "ESTADÍSTICAS PERSONALES",
+  "personalAddress": "Mi dirección",
+  "personalTime": "Queda hasta los ingresos actuales",
+  "personalLimit": "Límite de ingresos restante 400%",
+  "personalUpMoney": "Ingresos diarios 1,2%",
+  "personalRefUpMoney": "Ingresos de referencia directa",
+  "personalBonus": "Bono con línea",
+  "personalAward": "Premios TOP Patrocinadores",
+  "personalWithdraw": "Ganancias retiradas en la billetera",
+  "personalAccrual": "Ingresos acumulados",
+  "statisticAll": "Total de depósitos en TRX",
+  "statisticGet": "Total recibido, TRX",
+  "organization": "ORGANIZACIÓN",
+  "myRefLink": "Mi enlace de referencia",
+  "myCountRef": "Socios invitados personales",
+  "allPartners": "Total de socios",
+  "allUsers": "Total de participantes",
+  "officialChannel": "CANAL OFICIAL",
+  "support": "APOYO",
+
+  "withdraw": "RETIRAR",
+  "address": "Dirección",
+  "income": "Ingresos" ,
+  "back": "Volver" ,
+  "emptyValue": "El valor no puede ser 0",
+  "authError": "Para unirse al proyecto, debe usar la billetera Tron",
+  "sponsor": "Patrocinador:",
+  "idError": " Verifique su ID de invitado",
+  "changeId": "Puedes cambiar antes del depósito",
+  "copied": "Copiado",
+  "copy": "COPIAR",
+
+
+  "howToJoinText": {
+    "p1": "Para unirse a TRONX, debe utilizar una de las siguientes carteras Dapp. Versión móvil o extensión del navegador de PC.",
+    "p2": "Para conectarse a un contrato inteligente, descargue, configure y financie su billetera siguiendo las instrucciones a continuación.",
+    "p3": "* asegúrese de utilizar el enlace de referencia cuando realice el primer depósito en el contrato inteligente TRONX, póngase en contacto con la persona que le presentó TRONX.",
+    "p4": "TRON WALLET - descargar desde el sitio web oficial:",
+    "p5": " TRON WALLET es una billetera criptográfica p2p segura y un intercambio TRON (TRX)",
+    "items": [
+      "Descargue e instale TRON WALLET en su teléfono", 
+      "Financie su billetera TRON con TRX", 
+      "Entran al navegador Dapp en la billetera e ingrese el enlace de referencia",
+      "Seleccione el monto del depósito y haga clic en unirse."
+    ],
+    "p6": "Qué es el navegador Dapp?",
+    "p7": "Un navegador web que se puede utilizar para interactuar con cualquier aplicación descentralizada (DApp). Conexión simple, directa y segura entre su cuenta Blockchain y cualquier DApp compatible.",
+    "p8": "Billetera TRONLINK - EXPANSIÓN DEL NAVEGADOR A PC",
+    "p9": "Qué es Tron Link?",
+    "p10": "Tron Link está disponible como una extensión del navegador y como una aplicación móvil, Tron Link le proporciona almacenamiento de claves, un inicio de sesión seguro y una billetera de tokens: todo lo que necesita para administrar sus activos digitales.",
+    "p11": "Cómo descargar la extensión del navegador Tron Link?",
+    "p12": "Sitio web oficial:",
+    "p13": "Cómo conectar Tron Link al contrato inteligente TRONX?",
+    "connectItem1": "1. Abra el navegador web con Tron Link instalado",
+    "connectItem2": "2. Inicie sesión en",
+    "connectItem3": "(enlace) y presione Entrar.",
+    "connectItem4": "3. Permita que la billetera Tron Link se conecte a ",
+    "p14": "* Cuando se une por primera vez a TRONX, siga estos pasos.",
+    "items2": [
+      "Сopia el enlace de referencia del patrocinador.", 
+      "Ingrese el enlace de referencia en el navegador de su PC con la extensión Tron Link", 
+      "Seleccione la cantidad que desea depositar hasta 100,000 TRX", 
+      "Haga clic en unirse y confirme la transacción en la billetera."
+    ]
+  },
+  "guideText": {
+    "items1": [
+      "Bienvenido al proyecto TRONX",
+      "El contrato inteligente TRONX está diseñado para proporcionar a todos un fondo de apoyo financiero independiente basado en la tecnología de contrato inteligente.",
+      " Cualquier miembro puede contribuir con TRX a la Community Foundation y apoyar a los miembros de la comunidad TRONX. Si un miembro activa el código de contrato, recibirá apoyo de otros miembros de la comunidad.",
+      "TRONX es un proyecto descentralizado 100%, basado en la comunidad; esto significa que no hay garantías ni beneficios adicionales derivados solo de TRONX, todo lo que obtiene de TRONX recibido de otros miembros de la comunidad y se basa en sus propios esfuerzos y los de la comunidad, ya que es un modelo de apoyo mutuo P2P.",
+      "Apoya a los demás, y otros, a cambio, lo apoyan.",
+      "UST TRON, de hecho, puede verse como un “tercer lado” descentralizado que proporciona total justicia, transparencia y igualdad para todos, de acuerdo con el código del algoritmo.",
+      "No hay intermediarios, ni propietarios, ni empresas, ni CEO (Chief Executive Officer o director ejecutivo) ni interacción humana, el algoritmo TRONX garantiza efectivamente la equidad de todos los socios participantes y socios de fondos de acuerdo con las reglas del contrato inteligente.",
+      "Es el modelo de apoyo financiero más funcional, inteligente, seguro y avanzado disponible actualmente."
+    ],
+    "p1": "Al enviar TRX al fondo comunitario TRONX, activa el código de contrato y dentro de las 24 horas recibirá el primer 1.2% de sus ingresos diarios. Lo recibirá hasta que se reciba el 400% de su depósito como apoyo de la comunidad TRONX.",
+    "p2": "Recibes el 400% de apoyo en 4 formas diferentes (1 pasiva y 3 a través de marketing). Cuando el 400% de las acumulaciones se recibe de cualquiera de las 4 formas, puede realizar un nuevo depósito del mismo tamaño o mayor para activar un nuevo ciclo del 400% y continuar recibiendo pagos del fondo.",
+    "items2": [
+      {"text": "1,2% del beneficio diario del depósito (máximo 400 días). Ingresos completamente pasivos para todos los miembros de la comunidad."},
+      {"text": "10% de ingresos por referencias directas, para distribución mutua, crecimiento de la comunidad y el fondo TRONX"},
+      {"text": " Ingresos de las ganancias de sus socios en 20 líneas de profundidad. Del 30% al 3%, dependiendo del número de invitados personalmente.", 
+        "income": [
+          "1) 30% ","2) 10","3) 10","4) 10"," 5) 10","6) 8","7) 8 😍 8"," 9) 8 ","10) 8 ","11) 5","12) 5","13) 5","14) 5 ","15) 5"," 16) 3","17) 3"," 18) 3","19) 3","20) 3"
+        ], 
+        "textMore": "Cada socio directo (personal) activa un nuevo nivel, máximo 20 niveles, ver arriba."
+      },
+      {"text": "Fondo de patrocinio de liderazgo diario 3% de todos los depósitos en TRONX, cada 24 horas. Distribuido de acuerdo con la calificación TOP."}
+    ],
+    "items3": [
+      "El 1,2% del monto proporcionado como apoyo al fondo comunitario se devolverá a todos los usuarios diariamente de acuerdo con el algoritmo del sistema hasta que se alcance el límite máximo de INGRESOS del 400%.",
+      "Supongamos que usted apoya un fondo de 1000 TRX. Ahora puedes recuperar 4000 TRX. Cada 24 horas recibirás 12 TRX por un máximo de 333 días, o hasta que recibas el 400% de los ingresos de cualquier otra forma posible. Depende de que venga primero.",
+      "10% de ingresos por referencias directas",
+      "El 10% del monto del depósito se acredita al patrocinador cuando su socio directo realiza el primer depósito o el depósito repetido. Por ejemplo, el depósito de un socio es 1000 TRX, luego obtienes 100 TRX de ingresos por referencias directas.",
+      "No hay límite para la cantidad de socios directos que puede tener."
+    ],
+    "items4": [
+      "INGRESOS POR BENEFICIOS DE SOCIOS",
+      "Los ingresos se basan en el beneficio diario del 1,2% de sus socios y se calcula en el momento en que su socio intermedio retira el 1,2% acumulado del beneficio diario."
+    ]
+  } 
+}

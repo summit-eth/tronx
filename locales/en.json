@@ -1,0 +1,123 @@
+{
+  "howStart": "HOW TO JOIN",
+  "guide": "GUIDE",
+  "topSponsors": "TOP 10 SPONSORS",
+  "subtitle": "THE WORLDS FIRST DECENTRALIZED, COMMUNITY SUPPORT FUND",
+  "subtitleSecond": "",
+  "join": "JOIN",
+  "reset": "RESET",
+  "joinToProject": "TO JOIN THE PROJECT YOU NEED TO USE",
+  "wallet": "TRON WALLET",
+  "statistic": "STATISTICS",
+  "contractInfo": "SMART CONTRACT INFO",
+  "contractAddress": "Smart Contract Address",
+  "contractDeposits": "Total TRX Deposits All Time",
+  "contractBalance": "Smart Contract Balance",
+  "contractWithdraws": "Amount Withdrawn By Members",
+  "contractPull": "Amount In The Daily Pool",
+  "contractCountDown": "Daily Pool Countdown",
+  "maxSumRef": "Maximum Amount From Top Referrer",
+  "mySponsor": "Referred By",
+  "personalStatistic": "PERSONAL STATISTIC",
+  "personalAddress": "Your Address",
+  "personalTime": "Next Income Countdown",
+  "personalLimit": "400% Income Limit Remain",
+  "personalUpMoney": "Daily Income 1,2%",
+  "personalRefUpMoney": "Direct Referral Income",
+  "personalBonus": "Matching Bonus",
+  "personalAward": "TOP Sponsor Rewards",
+  "personalWithdraw": "Income Withdrawn To Wallet",
+  "personalAccrual": "Unwithdrawn Income",
+  "statisticAll": "Total Amount Of Deposited TRX",
+  "statisticGet": "Total Amount Of Received TRX",
+  "organization": "ORGANIZATION",
+  "myRefLink": "Invitation Link",
+  "myCountRef": "Personal Invited Partners",
+  "allPartners": "Total Number Of Partners",
+  "allUsers": "Total Community Participants",
+  "officialChannel": "OFFICIAL CHANNEL",
+  "support": "SUPPORT TEAM",
+
+  "withdraw": "WITHDRAW",
+  "address": "Address",
+  "income": "Income" ,
+  "back": "BACK" ,
+  "emptyValue": "Zero amount",
+  "authError": "To join the project you need to use the Tron wallet",
+  "sponsor": "Sponsor:",
+  "idError": "Check your invitation ID.",
+  "changeId": "You can change it before proceeding with deposit.",
+  "copied": "Copied",
+  "copy": "Copy",
+
+
+  "howToJoinText": {
+    "p1": "To join TRON CHAIN you need to use one of the following Dapp wallets.",
+    "p2": "To connect with the smart contract, please download, set up, and fund your preferred wallet from the instructions below.",
+    "p3": "*it is mandatory to use a referral link 1st time depositing to TRONX smart contract, please get back to the person that introduced you to TRONX.",
+    "p4": "TRON WALLET - download at offical site:",
+    "p5": "TRONWALLET is a secure p2p crypto wallet and exchange for TRON (TRX)",
+    "items": [
+      "Download and set up TRON WALLET to phone", 
+      "Fund TRON wallet with TRX", 
+      "Go to Dapp browser in wallet and enter the ref link",
+      "select amount to deposit and click join"
+    ],
+    "p6": "Что такое браузер Dapp?",
+    "p7": "Веб-браузер, который можно использовать для взаимодействия с любым децентрализованным приложением (DApp). Простое, прямое и безопасное соединение между вашей учетной записью Blockchain и любым совместимым DApp.",
+
+    "p8": "TRONLINK Wallet - PC BROWSER EXTENSION",
+    "p9": "What is TRONLINK?",
+    "p10": "TRONLINK is Available as a browser extension and as a mobile app, TronLink equips you with a key vault, secure login, and token wallet—everything you need to manage your digital assets. TronLink generates passwords and keys on your device, so only you have access to your accounts and data.",
+    "p11": "How download TRONLINK browser extension?",
+    "p12": "Official website:",
+    "p13": "How to connect TRONLINK to TRON CHAIN smart contract?",
+    "connectItem1": "1. Open Web browser with TronLink download",
+    "connectItem2": "2. Enter",
+    "connectItem3": "(ref link) an click enter",
+    "connectItem4": "3. Allow TRONLINK wallet to connect to ",
+    "p14": "*first time joining TRON CHAIN, follow these steps",
+    "items2": [
+      "copy ref link from sponsor", 
+      "enter ref link into your pc browser with TRONLINK extension", 
+      "Select the amount you wish to deposit up to 100.000 TRX", 
+      "Click join and confirm transaction in wallet"
+    ]
+  },
+  "guideText": {
+    "items1": [
+      "Welcome to the world´s first decentralized community support fund built on TRON blockchain and smart contract technology.",
+      "The TRONCHAIN Smart Contract is designed to provide everyone with an independent, financial support fund, based on Smart Contract technology, surrounded and supported by multiple services including DEFI and online gaming through TRON Money groups.",
+      "Any participant can contribute TRX towards the community fund and support the TRONCHAIN community members, the participant will now activate the contract code and will start to receive support back from other community members.",
+      "TRONCHAIN is 100% decentralized and a community-based project; Meaning that there are no guarantee nor additional profits made in TRONCHAIN alone, all that you receive from TRONCHAIN is made from other community members and based upon your own and the community efforts as this is a P2P support model.",
+      "You support others and others support you back.",
+      "TRONCHAIN can actually be viewed as a decentralized “third party” which insures complete fairness, transparency and justice for all according to the algorithm code.",
+      "There are no mediators or intermediaries, no owners, no company, no CEO and no human interaction, which is effectively guaranteeing the fairness of all participating partners and partners funds according to the rules of the Smart Contract.",
+      "It is the most reasonable, safest, and best cutting-edge financial SUPPORT model available at this time."
+    ],
+    "p1": "You can participate in TRONCHAIN a minimum deposit of 100 TRX to the Fund, you are now eligible to receive 400% back",
+    "p2": "The 400% is returned in 4 ways (1 passive and 3 via marketing) and when the 310% is accumulated through any of the 4 ways, a new deposit must be made equal or greater to continue receiving from the fund.",
+    "items2": [
+      {"text": "1,2% Daily return on your Deposit (maximum 400 days) 100% Passive."},
+      {"text": "10% Direct Referral Commission for Sharing and Growing the Community Fund."},
+      {"text": "Matching Commission on Partners Daily Income every time they make a withdrawal", 
+        "income": [
+          "1) 30% ","2) 10","3) 10","4) 10"," 5) 10","6) 8","7) 8 😍 8"," 9) 8 ","10) 8 ","11) 5","12) 5","13) 5","14) 5 ","15) 5"," 16) 3","17) 3"," 18) 3","19) 3","20) 3"
+        ], 
+        "textMore": "1 new level is activated for each direct partner, maximum 20 levels, see above."
+      },
+      {"text": "Daily Top Referrer Pool 3%, of ALL Deposits set aside in pool, every 24 hour 10% of the pool is shared among top 4 sponsors in volume."}
+    ],
+    "items3": [
+      "1.2% of the amount provided as support to the community fund will be returned daily to all users according to the system algorithm until the maximum REVENUE limit of 400% is reached.",
+      "Let's assume that you support a 1000 TRX fund. Now you can get 4000 TRX back. Every 24 hours you will receive 12 TRX for a maximum of 333 days, or until you receive 400% of the income in any other way possible. Whichever comes first.",
+      "10% direct referral income",
+      "10% of the deposit amount is credited to the sponsor when his direct partner makes the first or repeated deposit. For example, a partner's deposit is 1000 TRX, then you receive 100 TRX of direct referral income.",
+      "There is no limit to the number of direct partners you can have."
+    ],
+    "items4": [
+      "INCOME FROM PROFITS OF PARTNERS",
+      "The income is based on the daily profit of 1.2% of your partners and is calculated at the moment when your downstream partner withdraws the accumulated 1.2% of the daily profit. The number of lines from which you receive income depends on the number of your direct personally invited partners. 1 line is added for each of your direct partners. To get the maximum income from 20 lines, you need to have 20 direct personally invited partners."
+    ]
+  }
+}
